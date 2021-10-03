@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "it-IT",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Il primo Beechcraft Baron viene introdotto nel 1961: un leggero aeromobile bimotore a pistoni che viene sostituito da molteplici varianti fino al lancio del Baron 58, nell'estate dell'amore del 1969.<\/br><\/br>Nel 2005 il moderno G58 si unisce alla famiglia, continuando la fiera tradizione di artigianato e comfort dei suoi predecessori e inaugurando un'era di tecnologie di nuova generazione per la linea Baron.<\/br><\/br>La cabina di pilotaggio del G58 è stata integrata con l'avionica Garmin 1000 NXi, un computer di volo con processore dual-core, interfaccia grafica migliorata, display ad alta risoluzione, sofisticate opzioni per le carte IFR e VFR e funzionalità aggiuntive per aumentare la percezione della situazione generale.<\/br><\/br>I due motori Continental Motors da 300 CV danno al G58 una potenza in grado di raggiungere la velocità di crociera massima di 202 nodi, garantendo prestazioni eccezionali in termini di ascensione, una discreta portata e una maggiore tranquillità grazie alla ridondanza del sistema. L'armonia dei comandi e la solida maneggevolezza si uniscono al quadro delle prestazioni, riconfermando il ruolo di questo Baron come velivolo da lavoro pesante, mentre i servizi di lusso valgono al G58 la fama di aeromobile da esibizione.",
+      "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
+      "AIRCRAFT.UI_MODEL": "Beechcraft Baron G58"
+    }
+  }
+}

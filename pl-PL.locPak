@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "pl-PL",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Pierwszy egzemplarz samolotu Beechcraft Baron powstał w roku 1961. Ten lekki statek powietrzny o dwóch silnikach tłokowych powstawał w kilku różnych wersjach aż do czasów lata miłości, czyli roku 1969, kiedy narodził się model Baron 58 o przedłużonym kadłubie.<\/br><\/br>Nowoczesny model G58 dołączył do rodziny w 2005 roku, kontynuując zapoczątkowaną przez swoich poprzedników dumną tradycję znakomitego rzemiosła oraz dbania o komfort i zwiastując jednocześnie nadejście epoki technologii nowej generacji w samolotach marki Baron.<\/br><\/br>Kokpit modelu G58 został zintegrowany z układem awioniki Garmin 1000 NXi – komputerem pokładowym z procesorem dwurdzeniowym, ulepszonym interfejsem graficznym, wysoką rozdzielczością ekranów, zaawansowanymi funkcjami map IFR and VFR oraz dodatkowymi funkcjami ułatwiającymi pilotom rozeznanie się w każdej sytuacji.<\/br><\/br>G58 napędzany jest dwoma silnikami marki Continental Motors o mocy 300 koni mechanicznych, które umożliwiają osiągnięcie maksymalnej prędkości przelotowej równej 202 węzłom, zapewniając przy tym nadzwyczajne wznoszenie, spory zasięg i bezpieczeństwo gwarantowane przez nadmiarowość układów. Wszystko to, wraz ze zharmonizowanymi układami sterowniczymi i niezawodnym systemem pilotażu, dopełnia obraz samolotu o znakomitych osiągach i potwierdza zasłużoną reputację modelu G58 – potężnej maszyny o luksusowym sznycie.",
+      "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
+      "AIRCRAFT.UI_MODEL": "Beechcraft Baron G58"
+    }
+  }
+}

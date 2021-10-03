@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "nb-NO",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Det aller første Beechcraft Baron-flyet ble introdusert i 1961, og dette lette flyet med to stempelmotorer ble etterfulgt av flere andre varianter, før det lange Baron 58 ble født sommeren 1969, bedre kjent som «Kjærlighetens sommer».<\/br><\/br>Det var først i 2005 den moderne G58 sluttet seg til familien, og det fortsetter den stolt tradisjonen innen håndverk og komfort som forgjengerne er kjent for – og dette flyet innledet i tillegg en æra med moderne teknologi for Baron-serien.<\/br><\/br>G58 sin cockpit har integrert Garmin 1000 NXi-avionikkpakken, har en flycomputer med tokjerners prosessor, et forbedret grafisk grensesnitt, høyoppløselige skjermer, sofistikerte IFR- og VFR-kartalternativer, og ekstra funksjonalitet for å forbedre den generelle situasjonsbevisstheten.<\/br><\/br>To Continental Motors-propeller på 300 hestekrefter får G58 opp i en maksimal marsjhastighet på 202 knop, samtidig som de gir flyet en eksepsjonell evne til å klatre, respektabel rekkevidde og økt trygghet grunnet systemredundans. Godt harmoniserte kontroller og bunnsolid håndtering gjør flyet enda bedre, og det har befestet Barons posisjon som en arbeidshest av et fly, samtidig som den luksuriøse komforten har høstet G58 mye ros.",
+      "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
+      "AIRCRAFT.UI_MODEL": "Beechcraft Baron G58"
+    }
+  }
+}
